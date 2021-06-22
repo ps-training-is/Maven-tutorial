@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: lenovo
+Class-Path: lib/slf4j-api-1.7.31.jar lib/log4j-api-2.13.3.jar lib/log4
+ j-core-2.13.3.jar lib/logback-classic-1.2.3.jar lib/logback-core-1.2.
+ 3.jar
+Build-Jdk: 1.8.0_281
+Created-By: Maven Integration for Eclipse
+Main-Class: com.infosys.product1.Application
+
